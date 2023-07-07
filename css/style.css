@@ -1,0 +1,177 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.body{
+    height: 50px;
+    text-align: center;
+    background-color: rgb(236, 248, 248);
+    margin-bottom: 0%;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-top: 8px;
+
+}
+
+header{
+
+    height: 100px;
+    text-align: center;
+    background-color: rgb(243, 213, 227);
+    color: #000;
+}
+
+.nav{
+    height: 30px;
+    background-color: rgb(223, 252, 242);
+    color: #000;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 4px;
+}
+
+.about_section{
+ display:flex;
+}
+.left{
+    height: 800px;
+    width: 60%;
+    text-align: center;
+    background-color: rgb(216, 137, 255);
+    color: #000;
+    margin-top: 4px;
+    margin-left: 8px;
+    margin-right: 4px;
+    margin-bottom: 8px;
+}
+.right{
+    height: 800px;
+    width: 40%;
+    text-align: center;
+    background-color: rgb(162, 69, 248);
+    color: #000;
+    margin-top: 4px;
+    margin-left: 4px;
+    margin-right: 8px;
+    margin-bottom: 8px
+}
+
+.head{
+    height: 60px;
+    text-align: center;
+    background-color: white;
+    color: #000;
+    margin-top: 8px;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px
+
+}
+
+.article{
+    height: 680px;
+    text-align: center;
+    background-color: rgb(224, 195, 250);
+    color: #000;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 10px
+
+
+}
+
+.heading{
+    height: 50px;
+    text-align: center;
+    background-color: rgb(247, 175, 211);
+    color: #000;
+    margin-top: 10px;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px
+}
+
+.para{
+    height: 180px;
+    text-align: center;
+    background-color: rgb(252, 181, 216);
+    color: #000;
+    margin-top: 8px;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px
+
+
+}
+
+.ad_section{display: flex;
+
+}
+
+.ad_left{height: 300px;
+    width: 50%;
+    text-align: center;
+    background-color: rgb(252, 181, 216);
+    color: #000;
+    margin-top: 8px;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px
+    
+}
+
+.ad_right{
+    height: 300px;
+    width: 50%;
+    text-align: center;
+    background-color: rgb(252, 181, 216);
+    color: #000;
+    margin-top: 8px;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px
+
+}
+
+footer{
+    height: 70px;
+    text-align: center;
+    background-color: rgb(252, 181, 216);
+    color: #000;
+    margin-left: 8px;
+    margin-right: 8px;
+
+}
+
+.headright{
+    height: 100px;
+    text-align: center;
+    background-color: white;
+    color: #000;
+    margin-top: 8px;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    
+}
+
+.navi{
+    height: 660px;
+    text-align: center;
+    background-color: hotpink;
+    color: #000;
+    margin-top: 10px;
+    margin-left: 8px;
+    margin-right: 8px;
+
+}
+
+ad_footer{
+    height: 100px;
+    text-align: center;
+    background-color: aliceblue;
+    color: #000;
+}
